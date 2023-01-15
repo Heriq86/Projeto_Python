@@ -8,4 +8,5 @@ Projeto 2 Calculo de abono salarioal
 •	O valor total a ser gasto com o pagamento do abono;
 •	O número de funcionário que receberá o valor mínimo de 100 reais;
 
-Projeto 3
+Projeto 3  Informar Vetores e  localizar Posição:
+Informar 8 numeros a um vetor e localizar local do vetor onde ele se encontra.
